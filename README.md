@@ -50,8 +50,9 @@ A secure, scalable backend system featuring:
 </p>
 
 ---
-## 🐍 GitHub Contribution Snake
+<!-- ## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alirizakaygusuz/alirizakaygusuz/gh-pages/github-contribution-grid-snake.svg" />
 </p>
+-->
