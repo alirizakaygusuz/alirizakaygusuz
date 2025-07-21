@@ -22,7 +22,7 @@
 
 ## 🚀 Project
 
-- [fraudscope-backend](https://github.com/alirizakaygusuz/fraudscope-backend) —  Modular backend architecture with OTP, JWT, email verification, role/permission-based access control and more.
+- [fraudscope-backend](https://github.com/alirizakaygusuz/fraudscope-backend) — A secure and modular backend architecture with OTP, JWT, email verification, role/permission-based access control and more.
 
 ---
 
@@ -45,3 +45,8 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alirizakaygusuz/alirizakaygusuz/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
+</p>
