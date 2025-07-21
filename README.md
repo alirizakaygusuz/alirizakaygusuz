@@ -22,8 +22,7 @@
 
 ### 🔨 What I'm working on
 
-- 🚀 [fraudscope-backend](https://github.com/alirizakaygusuz/fraudscope-backend): A secure, modular, and scalable backend system with role-based access, OTP, JWT, email verification & more.
-
+- 🚀 [fraudscope-backend](https://github.com/alirizakaygusuz/fraudscope-backend): 
 ---
 
 ### 🔗 Connect with me
@@ -44,7 +43,8 @@
 </p>
 
 ---
-<p align="center"> <img src="https://raw.githubusercontent.com/alirizakaygusuz/alirizakaygusuz/output/github-contribution-grid-snake.svg" alt="snake contribution animation" /> </p>
+### 🐍 GitHub Contribution Snake
 
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alirizakaygusuz/alirizakaygusuz/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
+</p>
