@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Riza Kaygusuz</h1>
-<h3 align="center">Java Backend Developer | Spring Boot · REST APIs · SQL · JWT</h3>
+<h3 align="center">Java Backend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alirizakaygusuz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -20,13 +20,19 @@
 
 ---
 
-## 🚀 Project
+## 🚀 Highlight Project
 
-- [fraudscope-backend](https://github.com/alirizakaygusuz/fraudscope-backend) — A secure and modular backend architecture with OTP, JWT, email verification, role/permission-based access control and more.
+🔗 [fraudscope-backend](https://github.com/alirizakaygusuz/fraudscope-backend)  
+A secure, scalable backend system featuring:
+
+- Role & Permission-Based Access Control  
+- OTP & Email Verification  
+- JWT Authentication  
+- Clean Modular Architecture
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/alirizakaygusuz" target="_blank">
