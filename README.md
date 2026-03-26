@@ -24,9 +24,9 @@
 ## 🧱 Currently Working On
 
 🔗 [gym-crm](https://github.com/alirizakaygusuz/spring-gym-crm) 
-A fintech-focused backend system with OTP-based 2FA, permission-based access control, email verification, token rotation and modular architecture.
-
-
+Backend project developed during EPAM Java Backend Specialization.
+Built with Spring Boot, Spring Security, JWT, Redis, PostgreSQL, Docker, 
+Flyway, ActiveMQ, and microservices architecture.
 ----
 ## 📫 Let's Connect
 
