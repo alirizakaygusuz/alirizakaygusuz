@@ -23,7 +23,7 @@
 
 ## 🧱 Currently Working On
 
-🔗 [fraudscope-backend](https://github.com/alirizakaygusuz/fraudscope-backend)  
+🔗 [gym-crm](https://github.com/alirizakaygusuz/spring-gym-crm) 
 A fintech-focused backend system with OTP-based 2FA, permission-based access control, email verification, token rotation and modular architecture.
 
 
