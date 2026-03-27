@@ -23,7 +23,7 @@
 
 ## 🧱 Currently Working On
 
-🔗 [gym-crm](https://github.com/alirizakaygusuz/spring-gym-crm) 
+🔗 [gym-crm](https://github.com/alirizakaygusuz/spring-gym-crm)  
 Backend project developed during EPAM Java Backend Specialization.
 Built with Spring Boot, Spring Security, JWT, Redis, PostgreSQL, Docker, 
 Flyway, ActiveMQ, and microservices architecture.
